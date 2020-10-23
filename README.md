@@ -8,3 +8,6 @@
 
 
 ![cowrie_links](https://i.imgur.com/ouHtOC5.png)
+
+
+![cowrie_commands](https://i.imgur.com/gnkuAkR.png)
